@@ -1,0 +1,15 @@
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\bin\Debug\net6.0\Examples001_HeloConsole.exe
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\bin\Debug\net6.0\Examples001_HeloConsole.deps.json
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\bin\Debug\net6.0\Examples001_HeloConsole.runtimeconfig.json
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\bin\Debug\net6.0\Examples001_HeloConsole.dll
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\bin\Debug\net6.0\Examples001_HeloConsole.pdb
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.csproj.AssemblyReference.cache
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.AssemblyInfoInputs.cache
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.AssemblyInfo.cs
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.dll
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\refint\Examples001_HeloConsole.dll
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.pdb
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\Examples001_HeloConsole.genruntimeconfig.cache
+C:\Users\Veronika\Desktop\Examples\Examples001_HeloConsole\obj\Debug\net6.0\ref\Examples001_HeloConsole.dll
